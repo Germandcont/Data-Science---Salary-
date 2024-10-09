@@ -1,2 +1,2 @@
 # Data Science - Salary 
- Pre and EDA
+ Preprocessing dara and EDA
