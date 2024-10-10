@@ -1,2 +1,4 @@
 # Data Science - Salary 
- Preprocessing dara and EDA
+ Preprocessing data and EDA
+
+In this repository, we will conduct the analysis and programming associated with the exploratory analysis of a Data Scientists salary dataset (obtained from Kaggle).
